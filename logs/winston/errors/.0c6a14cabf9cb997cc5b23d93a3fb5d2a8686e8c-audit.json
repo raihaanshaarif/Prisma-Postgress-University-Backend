@@ -29,6 +29,16 @@
             "date": 1721049148074,
             "name": "G:\\@Phero 2023\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-15-07-19-error.log",
             "hash": "11d988116b9ea986a3acf30b7d0cf4776b03f24ed98bd02dee8b0b3db6da3b30"
+        },
+        {
+            "date": 1721136246227,
+            "name": "G:\\@Phero 2023\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-16-07-19-error.log",
+            "hash": "380134c5f4a2ae3aeca042faf29234b2d455a4ea028a02bb75326426b0f1d0b0"
+        },
+        {
+            "date": 1721138435335,
+            "name": "G:\\@Phero 2023\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-16-07-20-error.log",
+            "hash": "6e9789cf4ef625e8f3c698c85962a3aeec3415747880386fe35819ccd71229fc"
         }
     ],
     "hashType": "sha256"
