@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/raihan/Desktop/My Files/Programming/prisma/Prisma-Postgress-University-Backend/logs/winston/successes/.8b7e28644eac579126298511ce4c621c06c34a49-audit.json",
+    "files": [
+        {
+            "date": 1721068538940,
+            "name": "/Users/raihan/Desktop/My Files/Programming/prisma/Prisma-Postgress-University-Backend/logs/winston/successes/phu-2024-16-07-00-success.log",
+            "hash": "763096e9a63786d5c12bcd929b3081ee94d1424dd73d1f08260ed4eff681a1b9"
+        },
+        {
+            "date": 1721073428495,
+            "name": "/Users/raihan/Desktop/My Files/Programming/prisma/Prisma-Postgress-University-Backend/logs/winston/successes/phu-2024-16-07-01-success.log",
+            "hash": "ea396fa9d656ca0c6bb2ed501120675633c9b9867e5bac9a0beb1c857de03180"
+        },
+        {
+            "date": 1721073699243,
+            "name": "/Users/raihan/Desktop/My Files/Programming/prisma/Prisma-Postgress-University-Backend/logs/winston/successes/phu-2024-16-07-02-success.log",
+            "hash": "ec1408197faa95c21493d5f3677e5e48b597f3e7ff5a675a10936b87bb1f380f"
+        }
+    ],
+    "hashType": "sha256"
+}
